@@ -14,11 +14,11 @@ Meu nome é Abner Salomão Bonfim, sou estudante de programação Front-End, apr
 <br>
 
 ### 💻 Projetos em destaque
-
+<!-- 
 - 🥊 **FightLog** — app para registrar treinos de boxe (tipo de treino, duração, intensidade e observações). Feito com HTML, CSS e JavaScript.
 - 🧾 **Leitor de Boleto** — projeto que lê uma compra e soma o total automaticamente.
 - 🔢 **Calculadora** — calculadora simples construída como projeto de aprendizado.
-
+-->
 <br>
 
 ### 📫 Como me encontrar
